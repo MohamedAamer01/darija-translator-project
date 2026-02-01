@@ -2,14 +2,14 @@
 
 Traducteur intelligent utilisant l'API Gemini pour traduire entre l'anglais et le darija marocain (dialecte arabe du Maroc).
 
-## 📋 Description
+##  Description
 
 Ce projet est composé de trois parties :
 - **Backend** : API REST Java (Jakarta EE) qui communique avec l'API Gemini
 - **Client Desktop** : Application Java Swing avec interface graphique moderne
 - **Extension Chrome** : Extension de navigateur pour traduction rapide
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - ✅ Traduction bidirectionnelle (English ↔ Darija)
 - ✅ Interface moderne et intuitive
@@ -18,7 +18,7 @@ Ce projet est composé de trois parties :
 - ✅ Copier/Coller rapide
 - ✅ Exemples intégrés
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 ### Backend
 - Java 17+
@@ -36,7 +36,7 @@ Ce projet est composé de trois parties :
 - JavaScript (ES6+)
 - Chrome Extension Manifest V3
 
-## 📦 Installation
+##  Installation
 
 ### Prérequis
 - JDK 17 ou supérieur
@@ -89,7 +89,7 @@ Ou exécutez directement depuis votre IDE.
 
 5. **L'extension est installée** ! Cliquez sur l'icône pour l'utiliser.
 
-## 🚀 Utilisation
+##  Utilisation
 
 ### API REST
 
@@ -134,7 +134,7 @@ Ou exécutez directement depuis votre IDE.
 ### Extension Chrome
 ![Extension Chrome](screenshots/extension-chrome.png)
 
-## 🔧 Configuration avancée
+##  Configuration avancée
 
 ### Mode Simulation (sans API Gemini)
 
@@ -164,7 +164,7 @@ Les contributions sont les bienvenues !
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 📝 License
+## License
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
@@ -173,13 +173,13 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 **Votre Nom**
 - GitHub: [@AAMER_MOHAMED](https://github.com/MohamedAamer01)
 
-## 🙏 Remerciements
+##  Remerciements
 
 - Google Gemini API pour la traduction
 - Anthropic Claude pour l'assistance au développement
 - La communauté open source
 
-## 📞 Contact
+##  Contact
 
 Pour toute question ou suggestion : mohamedaamer0622@gmail.com
 
@@ -192,3 +192,4 @@ Pour toute question ou suggestion : mohamedaamer0622@gmail.com
 [![Démo vidéo](screenshots/javaApp.png)](https://drive.google.com/file/d/11AAK1Kyd3m1n73qChmRJ0HXhAWH2Wdif/view?usp=sharing)
 
 📹 **[Cliquez ici pour regarder la vidéo complète](https://drive.google.com/file/d/11AAK1Kyd3m1n73qChmRJ0HXhAWH2Wdif/view?usp=sharing)
+
