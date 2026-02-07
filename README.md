@@ -129,7 +129,7 @@ Ou exécutez directement depuis votre IDE.
 ## 📸 Captures d'écran
 
 ### Application Desktop
-![Application Java Swing](screenshots/app-java.png)
+![Application Java Swing](/screenshots/extension-)
 
 ### Extension Chrome
 ![Extension Chrome](screenshots/extension-chrome.png)
@@ -192,4 +192,5 @@ Pour toute question ou suggestion : mohamedaamer0622@gmail.com
 [![Démo vidéo](screenshots/javaApp.png)](https://drive.google.com/file/d/11AAK1Kyd3m1n73qChmRJ0HXhAWH2Wdif/view?usp=sharing)
 
 📹 **[Cliquez ici pour regarder la vidéo complète](https://drive.google.com/file/d/11AAK1Kyd3m1n73qChmRJ0HXhAWH2Wdif/view?usp=sharing)
+
 
